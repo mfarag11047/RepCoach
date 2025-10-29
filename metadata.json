@@ -1,0 +1,7 @@
+{
+  "name": "RepCoach",
+  "description": "An AI-powered fitness tracking application with a generative AI chatbot to analyze progress and learn new exercises. The app generates personalized workout plans, tracks recovery, and provides detailed analytics, all wrapped in a sleek, dark-mode interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
